@@ -1,0 +1,24 @@
+{
+  "name": "bot_discord",
+  "version": "5.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theo 'rostro15' rusinowitch",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.2",
+    "console-stamp": "^3.0.4",
+    "discord.js": "^14.0.0-dev.1646870856.e787cd5",
+    "events": "^3.3.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.7",
+    "sync-fetch": "^0.3.1",
+    "winston": "^3.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
